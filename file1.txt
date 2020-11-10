@@ -1,0 +1,4 @@
+Hello world
+Hello Batch21
+It is nice to learn JAVA and other programming languages
+I love learning new things all the time
